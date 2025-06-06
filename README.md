@@ -1,6 +1,6 @@
 # Vest: Verified, Secure, High-Performance Parsing and Serialization for Rust
 
-Anonymized code repository for Vest, a framework for high-performance,
+Artifact for Vest, a framework for high-performance,
 formally verified binary parsers and serializers
 that combines expressivity and ease of use with state-of-the-art correctness and security guarantees.
 

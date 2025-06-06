@@ -91,4 +91,4 @@ cd vest-dsl/bitcoin/benches
 cargo bench
 ```
 
-> NOTE: To run the benchmark for the Bitcoin block format, you first need to download the [sampled_blocks.txt](./vest-dsl/bitcoin/benches/data/sampled_blocks.txt) file, which contains the sampled Bitcoin blocks used in the benchmark. You can download it from [here](...).
+> NOTE: To run the benchmark for the Bitcoin block format, you first need to download the actual [sampled_blocks.txt](./vest-dsl/bitcoin/benches/data/sampled_blocks.txt) file, which contains the sampled Bitcoin blocks used in the benchmark. You can download it from the [releases](https://github.com/y1ca1/vest/releases).
